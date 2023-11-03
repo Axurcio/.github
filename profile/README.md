@@ -1,7 +1,5 @@
 ## Axurcio 👋
 
-<!--
-
 **Axurcio.com**
 
 🙋‍♀️ Cloud Solution Architects
@@ -9,4 +7,3 @@
 👩‍💻 Solution Architecture
 🍿 Data Strategy
 🧙hi@axurcio.com
--->
